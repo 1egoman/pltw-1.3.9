@@ -9,6 +9,7 @@ print "Heyo, im Chris !"
 print "SpeHou's Crusaders will rise, is there SpeHou in New Zealand??"
 print "SpeHou likes ice cream and unicorns"
 print "PYB"
+print "hello world!"
 
 # each person should put a print statement for themselves
 # for example: print "Hi, I'm John, and I like pie."
