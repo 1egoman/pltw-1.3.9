@@ -1,5 +1,14 @@
 print "Let's print stuff!"
+print "Halfbreeds love bicycles! -Jarrod"
 print "My name is Michael Joseph King Zucco, and I like to eat Cajun Chicken Pasta"
+print "I am Alex Bowen and I like long walks on the beach and puppies and stuff"
+print "I'm Matt Sabourin and I play hockey"
+print "My name is Carl Victor Eric Andersson and i like food and sports"
+print "My name is Michael F. aldrich, and my crawlspace is full!"
+print "Heyo, im Chris !"
+print "SpeHou's Crusaders will rise, is there SpeHou in New Zealand??"
+print "SpeHou likes ice cream and unicorns"
+print "PYB"
 
 # each person should put a print statement for themselves
 # for example: print "Hi, I'm John, and I like pie."
